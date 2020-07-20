@@ -69,6 +69,7 @@ Estudo do livro "O Projeto Fenix"
 - Reunião com Steve para obter novos colaboradores é um fracasso;
 - Na reunião de CCM é visto os 437 mudanças solicitadas para semana;
 - "Regra 80/20: 20% das mudanças apresentam 80% de risco"
-- 
+- Mudanças são categorizadas em grupos, de rotineiras até alto impacto;
+- Aprovação das mudanças deverá ser responsabilidade do apresentador da mesma;
   
   
