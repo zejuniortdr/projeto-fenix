@@ -1,4 +1,4 @@
-![Leitura](https://img.shields.io/badge/Lido-32.29%25-brightgreen)
+![Leitura](https://img.shields.io/badge/Lido-35.68%25-brightgreen)
 
 # projeto-fenix
 ![Capa](https://images-na.ssl-images-amazon.com/images/I/51QanGkqphL._SX348_BO1,204,203,200_.jpg)
@@ -95,3 +95,23 @@ Estudo do livro "O Projeto Fenix"
 - Muitas das mudanças exigem o Brent de alguma forma, então Bill, wes e Patty decidem ao invés de abortar o processo, inventariar tudo que depende dele, nos cartões de mudança atuais e em novas solicitações;
 - Bill se recorda do que o Erick disse: "WIP é um assassino silencioso"
 - "Se ele estava certo sobre o WIP, sobre o que mais pode estar certo? Seria de alguma forma os processos de T.I. realmente similares aos de chão de fábrica?"
+
+
+## Capítulo 12
+- Sexta feira, 12 de setembro já se passaram 2h do prazo previsto para iniciar a implantação do Fenix, mas ainda não estava funcionando nem no ambiente de testes.
+- "Cheiro de pizza associado a futilidade de uma marcha fúnebre";
+- Desenvolvedores do Chris receberam os relatórios de erros e foram chamados de volta de suas casas para corrigir os problemas.
+- Um dos desenvolvedores entra na sala onde estão todos trabalhando freneticamente, e diz: "Está funcionando no meu laptop, quão difícil isso pode ser?"
+- Firewall estava bloqueando uma porta e o front-end não conseguia se comunicar com o servidor. Ninguém tinha notado isso nas últimas duas horas;
+- Mudanças muito rápidas no código impossibilita o acompanhamento no dia de implatanção. Expectativa de explodir em produção;
+- Correções dos devs enviam os arquivos individuais ao invés do pacote completo;
+- Definem o ponto sem retorno: Migração no banco para receber pedidos do POS e do Fenix;
+- Bill comunica Steve para adiar o lançamento em uma semana;
+- Marketing atravessa o desenvolvimento e divulga em todos os jornais o lançamento do Fenix, impedindo que Steve aborte a missão suicida;
+- Sarah diz que todos estão prontos, menos Bill. A implantação deve continuar.
+- Viram a noite e o Fenix aparentemente está funcionando, contudo o POS não e as lojas abrirão em 30min;
+- Discussão entre Bill e Sarah sobre mandar um email comunicando os lojistas de como operar sem o POS;
+- Fenix perdia algumas transações ou duplicava a cobrança de forma aleatória;
+- Financeiro estabelece uma nova sala de guerra para contornar os problemas gerados pela implantanção prematura;
+- Fenix vaza os números de cartão de crédito da última compra com sucesso quando esvazia o carrinho;
+- Bill volta para o escritório depois de ter ido para casa dormir por 1h.
