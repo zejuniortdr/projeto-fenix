@@ -73,3 +73,6 @@ Estudo do livro "O Projeto Fenix"
 - Aprovação das mudanças deverá ser responsabilidade do apresentador da mesma;
   
   
+## Capítulo 9
+- problema no sistema de cartão de crédito no meio da reunião de orçamento
+-
