@@ -74,5 +74,24 @@ Estudo do livro "O Projeto Fenix"
   
   
 ## Capítulo 9
-- problema no sistema de cartão de crédito no meio da reunião de orçamento
--
+- Problema no sistema de cartão de crédito no meio da reunião de orçamento;
+- Interrupção é corrigida pelo Brent sem comunicar aos demais o que foi feito ou desfeito;
+- Bill quer um controle maior durante interrupções Sev 1 e delega a Patty elaborar uma timeline de eventos e mudanças que causaram a interrupção e a Wes que contorle o pessoal para discutir possíveis causas antes de agir instintivamente;
+- Na reunião de CCM, as mudanças são organizadas e percebem que há várias agendadas para o dia do lançamento do Fenix na sexta-feira. Algumas moveram-se para o início da semana a fim de ficar ao mais longe possível da implantação. "Comparação com um aeroporto com tráfego aéreo;"
+- Mudanças são outro tipo de trabalho: Projetos de Negócios, Projetos de T.I. e Mudanças. "Qual será o quarto tipo?"
+
+
+## Capítulo 10
+- "Um dia na vida de Brent"
+- Bill observa por um tempo como Brent trabalha e decide blindá-lo para não ser mais interrompido nas atividades no Fenix;
+- Tudo que era solicitado direto ao Brent deverá passar por uma aprovação de Bill ou Wes;
+- Brent não tira um dia de férias sem o pager a mais de 3 anos;
+- Quando Brent resolve um problema não há qualquer registro de como foi feito, muito menos um ticket a respeito. Com isso, não há aprendizado de outras pessoas e o gargalo continua nele;
+
+
+## Capítulo 11
+- Patty convoca Bill para discutir a respeito do processo de mudanças. Ela descobre que 60% não é implementado por algum motivo;
+- Discutem se a não ajuda de Brent pode ter impactado esse nesse processo; 
+- Muitas das mudanças exigem o Brent de alguma forma, então Bill, wes e Patty decidem ao invés de abortar o processo, inventariar tudo que depende dele, nos cartões de mudança atuais e em novas solicitações;
+- Bill se recorda do que o Erick disse: "WIP é um assassino silencioso"
+- "Se ele estava certo sobre o WIP, sobre o que mais pode estar certo? Seria de alguma forma os processos de T.I. realmente similares aos de chão de fábrica?"
