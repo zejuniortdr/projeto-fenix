@@ -1,9 +1,10 @@
-![Leitura](https://img.shields.io/badge/Lido-45.83%25-brightgreen)
+![Leitura](https://img.shields.io/badge/Lido-55.99%25-brightgreen)
 
 # projeto-fenix
 ![Capa](https://images-na.ssl-images-amazon.com/images/I/51QanGkqphL._SX348_BO1,204,203,200_.jpg)
 
 Estudo do livro "O Projeto Fenix"
+
 
 ## Parte 1
 
@@ -159,4 +160,46 @@ Estudo do livro "O Projeto Fenix"
 - Mais um não de Bill para o bem do time e dos resultados;
 
 
+## Parte 2
 
+### Capítulo 17
+- 4 dias desde a demissão de Bill;
+- Apagou todos os emails e mensagens;
+- Leva o filho para uma aventura, e quando Wes liga, deixa-o cair na caixa postal;
+- Depois de várias ligações de Wes e Patty, Bill atende;
+- Sistema de Inventário caiu e nada pode ser feito sem ele;
+- Steve liga algumas vezes e como não consegue falar com Bill, liga para Paige;
+- Ela o convence a escutar o que Steve tem a dizer: Quer Bill de volta por 90 dias e se depois disso ainda quiser sair, terá uma indenização de 1 ano;
+
+
+### Capítulo 18
+- Steve convoca uma reunião no prédio 2 com os líderes: Wes, Patty, Chris, Erick e Bill.
+- Ele citou o 5 desafios das equipes, onde para confiar uns nos outros é necessário expor algumas vulnerabilidades;
+- Conta uma história de como foi difícil seu começo, passando por colheita de algodão, depois trabalho em uma mina de cobre para pagar os estudos.
+- Propõe uma mudança para que TI seja uma competência de todos e não mais um departamento.
+- Todos concordam e aguardam uma resposta de Bill.
+
+
+### Capítulo 19
+- Bill concorda.
+- Depois de todos se apresentarem, começam a discutir sobre a definição de pronto;
+- Chris diz que entregou tudo no prazo, e que Operações é o gargalo onde as coisas páram, como um aeroporto quando fecha e tem muitos aviões sobrevoando tentando pousar;
+- Wes rebate com a mesma metáfora: Seu primeiro avião espatifou destruindo a pista de pouso, por isso o aeroporto fechou.
+- John é convidado a se juntar a reunião
+- Definição do conceito de dívida técnica: Trabalho não planejado é caro e cobra em uma moeda específica, em trabalho planejado;
+- Erick diz: "É preciso muito mais do que saber dizer não"
+- Novamente o papo sobre o WIP, sobre proteger as restrições e permitir que o trabalho flua por elas;
+- Proposta de Bill: Parar tudo que não for relacionado ao Fenix;
+- Depois de algumas discussões todos concordam. A ideia é reduzir o WIP para aumentar a produtividade;
+
+
+### Capítulo 20
+- Chega o email de Kirsten, o projeto de congelamento está surtindo efeito. Foram mais produtivos em 7 dias do que no último mês.
+- Discussão de Wes, Patty e Bill sobre o que farão após encerrar o congelamento;
+- Identificam como é feito a priorização do trabalho: Quem grita mais alto e com mais acesso a um executivo mais senior;
+- Nova visita a fábrica MRP-8 de Bill e Erick;
+- Análise sobre o que são os centros de trabalho quem os opera;
+- Brent é uma restrição pq opera muitos centros de trabalho;
+- Centro de tabralho = Máquina + Homem + Método + Medidas
+- Para o fim do congelamento deverão ser liberados apenas os projetos que não precisem do Brent, o que levanta outro questionamento: Quais seriam estes, sendo que Brent não é convocado antes do meio do projeto?
+- Definição de prioridade: Escalabilidade, disponibilidade, sobrevivência, sustentabilidade, segurança, suportabilidade ou defensibilidade da organização.
