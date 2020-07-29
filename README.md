@@ -1,4 +1,4 @@
-![Leitura](https://img.shields.io/badge/Lido-55.99%25-brightgreen)
+![Leitura](https://img.shields.io/badge/Lido-66.15%25-brightgreen)
 
 # projeto-fenix
 ![Capa](https://images-na.ssl-images-amazon.com/images/I/51QanGkqphL._SX348_BO1,204,203,200_.jpg)
@@ -199,7 +199,56 @@ Estudo do livro "O Projeto Fenix"
 - Identificam como é feito a priorização do trabalho: Quem grita mais alto e com mais acesso a um executivo mais senior;
 - Nova visita a fábrica MRP-8 de Bill e Erick;
 - Análise sobre o que são os centros de trabalho quem os opera;
-- Brent é uma restrição pq opera muitos centros de trabalho;
+- Brent é uma restrição, pois opera muitos centros de trabalho;
 - Centro de tabralho = Máquina + Homem + Método + Medidas
 - Para o fim do congelamento deverão ser liberados apenas os projetos que não precisem do Brent, o que levanta outro questionamento: Quais seriam estes, sendo que Brent não é convocado antes do meio do projeto?
 - Definição de prioridade: Escalabilidade, disponibilidade, sobrevivência, sustentabilidade, segurança, suportabilidade ou defensibilidade da organização.
+
+
+### Capítulo 21
+- Reunião da auditoria no prédio 2;
+- Depois de 5h de reunião, os auditorem entendem e retornarão com um laudo em alguns dias;
+- TI é isentada dos problemas financeiros;
+- Depois de reunião, um papo quente entre Bill, John e Erick. 
+- Erick aponta que conseguriam se livrar da auditoria sem qualquer ajuda do departamento de John, e até que ele consiga entender o como e o porquê, não deverá interefirir nos trabalhos de TI;
+- Comparação dele com um QA que solicita muitos testes e relatórios de um produto que foi descontinuado;
+- Definição de "erro de escopo";
+- John, em fúria, joga no chão o fichário de 3 argolas que carregou durante 2 anos, e diz que vai para casa e não sabe se volta amanhã ou algum dia;
+
+
+### Capítulo 22
+- John não comparece a reunião de auditoria;
+- Bill corta as brincadeiras de Wes a respeito da possível causa da ausência de John;
+- Bill, Wes e Patty conversam sobre o projeto do monitoramento;
+- Definem que cada vez mais, o trabalho de TI se parece muito com o de chão de fábrica, como por exemplo configuração de um servidor;
+- Definem algumas etapas e na segunda-feira seguinte, Bill e Patty conversam na sala de CCM. Há um quadro novo: Kanban;
+- Categoriação de cartões por cor para indicar a importância;
+- Chega o laptop novo de Bill, e dois dias antes do previsto. Todo so estudo e análise de fluxo feito por Patty deu resultado e o cronograma destas tarefas comecará a ser publicado;
+
+
+### Capítulo 23
+- Mais uma atraso nas tarefas do Fenix;
+- Gráfico de uso de recurso: Tempo ocupado ÷ tempo ocisoso = tempo de espera;
+- Ideia de implementar um Kanban para as tarefas recorrentes em atraso;
+- Sugestão de um novo cargo: alguém para cuidar das transferências das tarefas entre os centros de trabalho;
+
+
+### Capítulo 24
+- Sábado em família para Bill e sua visita na plantação de abóbora, a poucas semanas do halloween;
+- John liga 15x durante o final de um filme que Bill assistia com Paige. Quando Bill retorna, ele está em um bar, bêbado e o convida para se juntar a ele;
+- Bill, preocupado, vai e coloca John em um taxi para casa;
+- Na manhã seguinte, Bill é informado por John sobre uma reunião com Dick, o segundo executivo mais poderoso da empresa;
+- Relutante, Bill confirma a presença, para evitar que John fale alguma besteira e ambos sejam demitidos.
+
+
+### Capítulo 25
+- Reunião com Dick começa mais cedo, e John dispara perguntas como "O que faz aqui?", "O que é um dia bom e ruim para você?", "Quais são suas metas?"
+- Bill se choca com o engajamento de Dick e suas respostas sinceras;
+- Bill liga para Erick para pedir conselhos e ele cita o aprendizado que os ele e John tiveram com Dick. Agora a visão é mais macro;
+- Como tarefa, Erik pede a Bill que identifique onde fez um subescopo das atividades e onde John fez um superescopo;
+- Citação do cubo coso e ao Planolândia: Deve-se sair do reino da TI para descobrir onde o negócio depende da TI;
+- Comparação a empresa de frete, onde um indicador chave de desempenho (KPI) é a entrega no prazo, e para garantí-lo, é criado um KPI preditivo para troca de óleo dos caminhões, dado que é o principal causador de quebra quando não é feito;
+- Erick pede a Bill também que John aprenda como o negócio se livrou da auditoria, e depois de descobrir, que o explique;
+- Para a próxima reunião com Dick, Bill deve ter todos os dados concretos em mãos e Erick se convida a participar para ver o que aprenderam.
+
+
