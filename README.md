@@ -291,6 +291,7 @@ Estudo do livro "O Projeto Fenix"
 - Entrega em partes menores e em peça única;
 
 
+## Parte 3
 
 ### Capítulo 30
 - De volta a Fábrica MRP-8, Erick pede a Bill que pense em como fazer 10 implantações por dia;
