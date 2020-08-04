@@ -1,4 +1,4 @@
-![Leitura](https://img.shields.io/badge/Lido-66.15%25-brightgreen)
+![Leitura](https://img.shields.io/badge/Lido-77.34%25-brightgreen)
 
 # projeto-fenix
 ![Capa](https://images-na.ssl-images-amazon.com/images/I/51QanGkqphL._SX348_BO1,204,203,200_.jpg)
@@ -250,5 +250,54 @@ Estudo do livro "O Projeto Fenix"
 - Comparação a empresa de frete, onde um indicador chave de desempenho (KPI) é a entrega no prazo, e para garantí-lo, é criado um KPI preditivo para troca de óleo dos caminhões, dado que é o principal causador de quebra quando não é feito;
 - Erick pede a Bill também que John aprenda como o negócio se livrou da auditoria, e depois de descobrir, que o explique;
 - Para a próxima reunião com Dick, Bill deve ter todos os dados concretos em mãos e Erick se convida a participar para ver o que aprenderam.
+
+
+### Capítulo 26
+- Reunião com o VP de Vendas e Fabricação Ron Johnson, um dos caras mais divertidos de se viajar, dado seu relatório de gastos;
+- Ele viaja o mundo tentando salvar as contas problemáticas;
+- Tem produtos demais que nunca serão vendidos e nunca o suficiente dos que vendem;
+- Ron diz a Bill que o dinheiro que ele precisa para acelerar as coisas em TI e menos do que o que gastam para regar o jardim;
+- Patty vai levantar quais outros sistemas apoiam Ron além do telefone e do MRP, a ideia é fazer algum tipo de prevenção para evitar falhas;
+- Papo com Maggie Lee, quem cuida dos projetos de TI e responsável pelo Fênix;
+- Maggie reporta os erros frequentes nos relatórios o que impede a previsibilidade de vendas, inibe campanhas de marketing e atrapalha todo o sucesso do negócio;
+- Ideia de previsibilidade, testes A/B, chegar rápido ao mercado, fracassar rápido e aprender com os erros;
+- Maggie cita a redução de ciclos (parte da Primeira Maneira) e ampliação de loops de feedback (parte da Segunda Maneira);
+- Bill pede a Patty que marque uma reunião com Wes, Chris e John para discutirem a respeito;
+- Fenix tem sofrio cortes, principalmente em relatórios e atualmente não resolve os problemas apontados por Ron e Maggie;
+- Com uma taxa interna de retorno de 10%, e o Fênix ter gasto 20 milhões em 3 anos, chegam a uma conclusão óbiva: Não deveria ter sido aprovado.  
+
+
+### Capítulo 27
+- Reunião com Dick, e após Bill apresentar suas propostas, Erick acaba defendendo ele, dado que Dick estava bem na defensiva;
+- Por fim, Dick é convencido, e vão elaborar um plano para que as demandas de TI sejam incorporada ao planejamento de negócios, dada sua evidente importância;
+- John descobre como escaparam da auditoria: Faye, que trabalha no financeiro junto com Ann, tem um passado técnico, e ao elaborar os relatórios, consegue mapear para onde o dinheiro está indo e blinda a TI;
+- John propoe 5 sugestões para reduzir o trabalho com segurança em 75% para focar no pagamento dos débitos técnicos do Fênix;
+- Todos concordam e acabam a reunião 30min mais cedo;
+
+
+### Capítulo 28
+- Primeira Maneira: Contenção as transferências de defeito em centro de trabalhos inferiores, gestão do fluxo de trabalho, estabelecimento de tempo para as restrições e entendimento do que é importante e do que não é, com base em relatórios;
+- Sarah novamente quer atravessar e tem alguns projetos em não conformidade com a política interna, colocando alguns de seus venderores para minerar dados de clientes;
+- Chegam a conclusão que Steve tem um ponto cego quando se trata dos defeitos de Sarah, ele a quer como sucessora, para que seja a próxima CEO pois ela cria estratégicas criativas, o que ele não vê é se tais estratégias são boas ou ruins e nem a quantidade de corpos que ficam pelo caminho;
+- Implementação do Fenix deu ruim novamente por conta de uma alteração de Brent direto na base de dados para atender uma solicitação da Sarah;
+- Contudo nesta implementação, apesar de trabalharem a noite toda, terminaram 1h20 antes das lojas abrirem, e foi dada como uma "implantação de sucesso", 20min antes do planejado na emergência, 6h de atraso do planejamento inicial;
+- Bill e Wes pensam a respeito de como não permitir que ambiente de DEV e QA sejam diferentes da produção;
+
+
+### Capítulo 29
+- Reunião com todos e Steve dá uma bronca em Sarah quando descobre que ela furou o acordo de demandas de TI e colocou em risco alguns processos;
+- Erick diz que o fluxo de trabalho deve ser em sentido único e compara a um carro sem ré;
+- A ré seria como correção de erros, retrabalho, falta de especificação e qualquer outro ponto que não permite que o fluxo seja contínuo;
+- Entrega em partes menores e em peça única;
+
+
+
+### Capítulo 30
+- De volta a Fábrica MRP-8, Erick pede a Bill que pense em como fazer 10 implantações por dia;
+- É necessário automatizar o que está na cabeça de Brent;
+- Reduzir esforço humano nesse processo a fim de minimizar erros;
+- Atuar em correções rápidas;
+- Tudo como código e versionado;
+
 
 
