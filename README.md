@@ -1,4 +1,4 @@
-![Leitura](https://img.shields.io/badge/Lido-77.34%25-brightgreen)
+![Leitura](https://img.shields.io/badge/Lido-83.07%25-brightgreen)
 
 # projeto-fenix
 ![Capa](https://images-na.ssl-images-amazon.com/images/I/51QanGkqphL._SX348_BO1,204,203,200_.jpg)
@@ -301,4 +301,23 @@ Estudo do livro "O Projeto Fenix"
 - Tudo como código e versionado;
 
 
+### Capítulo 31
+- Bill se reune com Wes, Patty, Brent e William para dicustir a sugestão de Erick das 10 implementações diárias;
+- A princípio acham a ideia inviável, e começam a desenhar o fluxo em duas lousas, marcando possíveis gargalos, onde já tiveram problemas e tempo de espera;
+- Fica cada vez mais claro que o trabalho da TI é parecido com o da fábrica, com uma complexidade a mais: não é visível fisicamente;
+- Depois de muita discussão, elegem o primeiro passo rumo a melhoria: empacotar o código para sincronia entre ambientes;
+
+
+### Capítulo 32
+- Brent é convocado às pressas para Des Moines por Dick e Sarah para um projeto de separação da TI;
+- Bill e Wes descobrem só depois de várias tentativas de contactá-lo;
+- Bill fala com Brent e avisa que ele vai voltar para o projeto Unicórnio (nome dado pelos devs para o projeto de automação para salvar o trimestre);
+- Bill alinha com Steve e decidem trazer o Brent de volta, mesmo que haja uma disputa política pelo recurso contra Dick e Sarah;
+
+
+### Capítulo 33
+- Relatórios do Unicórnio estão surpreendente, o que gerou uma alta taxa de conversão quando foi enviado as promoções para 1% da base;
+- Expectativa alta para promoção do Dia de Ação de Graças, e ninguém mais fica até tarde em implantação;
+- Por enquanto os relatórios ainda executam de forma lenta, mas depois de migrarem para nuvem, conseguem escalar centenas de máquinas para aumentar o desempenho e depois as desligam para reduzir custos;
+- Correções também estão mais rápidas, depois de pegarem em QA que o Unicórnio estava sugerindo itens fora do estoque, a correção foi feita em um dia e implantada em uma hora;
 
