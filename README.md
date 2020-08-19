@@ -1,4 +1,4 @@
-![Leitura](https://img.shields.io/badge/Lido-91.93%%25-brightgreen)
+![Leitura](https://img.shields.io/badge/Lido-91.93%25-brightgreen)
 
 # projeto-fenix
 ![Capa](https://images-na.ssl-images-amazon.com/images/I/51QanGkqphL._SX348_BO1,204,203,200_.jpg)
@@ -322,7 +322,7 @@ Estudo do livro "O Projeto Fenix"
 - Correções também estão mais rápidas, depois de pegarem em QA que o Unicórnio estava sugerindo itens fora do estoque, a correção foi feita em um dia e implantada em uma hora;
 
 
-## Capítulo 34
+### Capítulo 34
 - Campanha de ação de graças foi um sucesso maior do que o esperado e o volume de acesso estava derrubando o ecommerce;
 - Abriam um chamado de Sev 1 para resolver, e a primeira sugestão foi desligar o sistema de recomendação, dado que não fazia sentido recomendar se o cliente nem concluíndo a transação conseguia;
 - Levou 2h para implementar, mas já fizeram de um jeito fácil para ligar/desligar quando necessário da próxima vez: FEATURE TOGGLE!
@@ -334,7 +334,7 @@ Estudo do livro "O Projeto Fenix"
 - Todos saem da sala, menos Sarah que terá uma conversa com Steve.
 
 
-# Capítulo 35
+### Capítulo 35
 - Reunião social na casa de Steve, algum tempo depois e todos são convidados;
 - Steve pede a Bill que chegue 1h antes e conta a ele sobre seu plano audacioso de promovê-lo a COO em 3 anos.
 - Bill fica chocado e sem palavras, e agradece dizendo que irá pensar.
