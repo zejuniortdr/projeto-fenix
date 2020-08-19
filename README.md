@@ -321,3 +321,28 @@ Estudo do livro "O Projeto Fenix"
 - Por enquanto os relatórios ainda executam de forma lenta, mas depois de migrarem para nuvem, conseguem escalar centenas de máquinas para aumentar o desempenho e depois as desligam para reduzir custos;
 - Correções também estão mais rápidas, depois de pegarem em QA que o Unicórnio estava sugerindo itens fora do estoque, a correção foi feita em um dia e implantada em uma hora;
 
+
+## Capítulo 34
+- Campanha de ação de graças foi um sucesso maior do que o esperado e o volume de acesso estava derrubando o ecommerce;
+- Abriam um chamado de Sev 1 para resolver, e a primeira sugestão foi desligar o sistema de recomendação, dado que não fazia sentido recomendar se o cliente nem concluíndo a transação conseguia;
+- Levou 2h para implementar, mas já fizeram de um jeito fácil para ligar/desligar quando necessário da próxima vez: FEATURE TOGGLE!
+- Querem repatriar o sistema de MRP, outrora tercerizado por não acharem que era atividade fim;
+- Isso implica na ruptura do contrato com a tercerizada, trazer de volta 6 funcionários, gasto de 1 milhão em multa recisória do contrato;
+- Por outro lado conseguiriam desenvolver os pedidos customizados que Sarah tanto quer para fazer frente aos concorrentes;
+- Na reunião com Steve, todos são a favor desta proposta, menos Sarah. Steve dá um ultimato nela: ou trabalha com a equipe ou entregue o pedido de demissão.
+- Percebendo que fez um movimento errado em ser contra, ela muda de ideia diz que Bob vai curtir a ideia.
+- Todos saem da sala, menos Sarah que terá uma conversa com Steve.
+
+
+# Capítulo 35
+- Reunião social na casa de Steve, algum tempo depois e todos são convidados;
+- Steve pede a Bill que chegue 1h antes e conta a ele sobre seu plano audacioso de promovê-lo a COO em 3 anos.
+- Bill fica chocado e sem palavras, e agradece dizendo que irá pensar.
+- Erick se afasta do conselho, pois vê a possibilidade de investir na Parts Unlimited;
+- Todos na festa parabenizam Bill e o entregam um presente: seu velho laptop pintado a bronze, com uma placa de homenagem.
+- Bill se sente orgulhoso da equipe que tem e vê-los sorrindo na festa o faz bem.
+- De repente todos estão com o celular na mão e ele logo procura Patty para saber o que aconteceu.
+
+
+
+
