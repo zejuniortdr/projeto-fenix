@@ -344,5 +344,36 @@ Estudo do livro "O Projeto Fenix"
 - De repente todos estão com o celular na mão e ele logo procura Patty para saber o que aconteceu.
 
 
+### As Três Maneiras explicadas
+
+#### Primeira Maneira
+- Fluxo do trabalho da esquerda para direita: Dev -> Ops -> Cliente;
+- Para maximizar os fluxos, devemos ter lotes pequenos, intervalos de trabalho e não passar erros para centros de trabalhos inferiores;
+- Otimização constante direcionada aos objetivos globais;
+- O que é necessário: construção, implementação e integração contínua;
+
+
+#### Segunda Maneira
+- Fluxos de feedback constantes da direta para esquerda em todos os estágios;
+- Objetivo: prevenção de problemas ou detecção e recuperação mais rápidas;
+- O que é necessário: interromper pipeline quando a construção ou testes falham, testes automatizados rápidos e telemetria na produção;
+
+
+#### Terceira Maneira
+- Experimentação contínua
+- Repetição e pratica levam à maestria;
+- O que é necessário: Cultura de inovação, alta confiança e alocar 20% em requisitos não funcionais;
+
+
+
+## Leituras posteriores recomendadas pelo autor:
+- A Meta: um processo de melhoria contínua;
+- 5 Desafios das equipes;
+- Toyota Kata: Gerenciando pessoas para melhoria, adaptabilidade e resultados excepcionais;
+- Entrega contínua: como entregar software de forma rápida e confiável
+- Release-it: Design and deploy production-ready software;
+- Visible Ops and ITIL service support;
+- Personal Kanban: Mapping Work;
+- A arte de fazer acontecer: Estratégias para aumentar a produtividade e reduzir o estresse
 
 
