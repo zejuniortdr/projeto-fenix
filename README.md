@@ -1,4 +1,4 @@
-![Leitura](https://img.shields.io/badge/Lido-91.93%25-brightgreen)
+![Leitura](https://img.shields.io/badge/Lido-100%25-brightgreen)
 
 # projeto-fenix
 ![Capa](https://images-na.ssl-images-amazon.com/images/I/51QanGkqphL._SX348_BO1,204,203,200_.jpg)
