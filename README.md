@@ -344,7 +344,8 @@ Estudo do livro "O Projeto Fenix"
 - De repente todos estão com o celular na mão e ele logo procura Patty para saber o que aconteceu.
 
 
-### As Três Maneiras explicadas
+## As Três Maneiras explicadas
+
 
 #### Primeira Maneira
 - Fluxo do trabalho da esquerda para direita: Dev -> Ops -> Cliente;
